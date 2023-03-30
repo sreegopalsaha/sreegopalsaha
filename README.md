@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreegopalsaha
 - 👀 I’m interested in cryptocurrencies, programming
-- 🌱 I’m currently learning Java
+- 🌱 Diploma in Computer Science
 - 👥 Twitter - sreegopalsaha
 <!---
 - 💞️ I’m looking to collaborate on ...
