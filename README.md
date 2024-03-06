@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @sreegopalsaha
-- 👀 I’m interested in cryptocurrencies, programming
 - 🌱 Diploma in Computer Science
-- 👥 Twitter - sreegopalsaha
+- 👥 Twitter - @sreegopalsaha
+- 📫 How to reach me ...sreegopal0101@gmail.com
 <!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sreegopalsaha/sreegopalsaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
