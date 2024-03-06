@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreegopalsaha
 - 🌱 Diploma in Computer Science
 - 👥 Twitter - @sreegopalsaha
-- 📫 How to reach me ...sreegopal0101@gmail.com
+- 📫 Reach me - sreegopal0101@gmail.com
 <!---
 - 💞️ I’m looking to collaborate on ...
 
