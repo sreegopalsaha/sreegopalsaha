@@ -1,14 +1,49 @@
-[![](https://visitcount.itsvg.in/api?id=sreegopalsaha&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">Hey there, I'm Sree Gopal Saha</h1>
-<h3 align="center">I am currently learning MERN STACK</h3>
+<h1 align="center">👋 Hi, I'm Sree Gopal Saha</h1>
+<h3 align="center">MERN Stack Developer | Building with Passion</h3>
 
-- 📫 Reach me at: **sreegopal0101@gmail.com**
-- ⚡ **I’m all about turning complexity into simplicity.**
+<p align="center">
+  <a href="mailto:sreegopal0101@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat" alt="Email">
+  </a>
+  <a href="https://github.com/sreegopalsaha">
+    <img src="https://komarev.com/ghpvc/?username=sreegopalsaha&color=0e75b6&style=flat" alt="Profile views">
+  </a>
+</p>
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreegopalsaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 📊 Stats:
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sreegopalsaha&theme=dark&hide_border=false)
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sreegopalsaha&show_icons=true&theme=default&hide_title=true" alt="Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreegopalsaha&layout=compact&theme=default&hide_title=true" alt="Languages">
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sreegopalsaha">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40">
+  </a>
+  <a href="https://www.youtube.com/@sreegopalsaha">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40">
+  </a>
+  <a href="https://github.com/sreegopalsaha">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40">
+  </a>
+</p>
