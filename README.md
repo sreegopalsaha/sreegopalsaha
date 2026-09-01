@@ -28,8 +28,8 @@ I build things on the internet I wish existed. Sometimes useful. Sometimes weird
 
 ## ✦ Explore
 
-[ /connect ](./connect.md) ·
-[ /about ](./about.md) ·
-[ /projects ](./projects.md)
+[ /connect ](./CONNECT.md) ·
+[ /about ](./ABOUT.md) ·
+[ /projects ](./PROJECTS.md)
 
 </div>
